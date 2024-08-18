@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Esse projeto foi desenvolvido para as disciplinas de IA e Robótica do 5° período de licenciatura em computação. A ideia seria simular uma casa inteligente com ativações de comodôs por comando de voz.
+Este projeto foi desenvolvido para as disciplinas de IA e Robótica do 5º período da Licenciatura em Computação. A ideia é simular uma casa inteligente com ativação de cômodos por comando de voz.
 
 ## Configurações
 
